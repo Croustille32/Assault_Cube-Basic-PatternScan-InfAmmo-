@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(104,49): warning C4312: 'cast de type' : la conversion de 'DWORD' en 'void *' d'une taille supérieure
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(105,50): warning C4312: 'cast de type' : la conversion de 'DWORD' en 'void *' d'une taille supérieure
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(106,49): warning C4312: 'cast de type' : la conversion de 'DWORD' en 'void *' d'une taille supérieure
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(111,52): warning C4311: 'cast de type' : troncation de pointeur de 'void *' à 'DWORD'
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(111,52): warning C4302: 'cast de type' : troncation de 'void *' à 'DWORD'
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(111,68): warning C4311: 'cast de type' : troncation de pointeur de 'char (*)[4096]' à 'DWORD'
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(111,68): warning C4302: 'cast de type' : troncation de 'char (*)[4096]' à 'DWORD'
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(112,52): warning C4312: 'cast de type' : la conversion de 'unsigned long' en 'DWORD *' d'une taille supérieure
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(117,32): warning C4244: '=' : conversion de 'SIZE_T' en 'DWORD', perte possible de données
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(129,55): warning C4244: 'argument' : conversion de 'uintptr_t' en 'DWORD', perte possible de données
+C:\Users\danbo\source\repos\Pattern scanning\Pattern scanning\mem.h(129,48): warning C4244: 'argument' : conversion de 'uintptr_t' en 'DWORD', perte possible de données
+  Pattern scanning.vcxproj -> C:\Users\danbo\source\repos\Pattern scanning\x64\Debug\Pattern scanning.exe
